@@ -17,7 +17,7 @@ As decisões financeiras bem informadas contribuem para a *erradicação da pobr
 
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/seu-usuario/Semeia.git
+   git clone https://github.com/seu-usuario/EcoSenso.git
 
 npm install em seguida npm run dev*
 # ou
