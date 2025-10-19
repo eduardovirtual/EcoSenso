@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Eco$enso
 
-## Getting Started
+## Sobre
 
-First, run the development server:
+Este site foi criado com o propósito de promover a educação financeira sustentável no contexto familiar, reforçando valores como consumo consciente, responsabilidade ambiental e inclusão econômica. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+As decisões financeiras bem informadas contribuem para a *erradicação da pobreza (ODS 1)*, o *trabalho decente e crescimento econômico (ODS 8)* e o *consumo e produção responsáveis (ODS 12)*. Esses pilares se entrelaçam na construção de um futuro mais justo, consciente e saudável para todas as famílias, alinhando educação financeira com responsabilidade ambiental e impacto social positivo.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologias
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Next.js** (React)
+- **Tailwind CSS**
+- **Vercel** (deploy)
+- **Git & GitHub**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Como usar
 
-## Learn More
+1. Clone o repositório  
+   ```bash
+   git clone https://github.com/seu-usuario/Semeia.git
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+npm install em seguida npm run dev*
+# ou
+yarn
